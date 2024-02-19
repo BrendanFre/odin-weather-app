@@ -1,0 +1,7 @@
+:root{
+    --secondary-color: #0f172a;
+}
+
+body {
+    background-color: var(--secondary-color);
+}
